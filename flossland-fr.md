@@ -306,15 +306,6 @@ Atelier modification des liens http
   * Keycloak (Red Hat sponsor) <span id='bright'>\*\*\* </span>
 
 ----
-### Sécurité
-
-* MonLogicielDe Sécurité opensource
-* Le secnod
-* Le troisième
-
-
-
-----
 ### Framework dev
 
 
