@@ -43,7 +43,7 @@ Authored by **Samir Saidani**
 
 ---
 
-## Français
+# Français
 
 ---
 # Flossland : Créez votre propre plateforme avec les meilleures webapps open source.
