@@ -41,8 +41,6 @@ Authored by **Samir Saidani**
 
 📩 [samir.saidani@babel.coop](mailto:samir.saidani@babel.coop)
 
----
-
 <a name="french"></a>
 
 ---
