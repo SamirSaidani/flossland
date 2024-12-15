@@ -43,9 +43,7 @@ Authored by **Samir Saidani**
 
 ---
 
-## Français 🇫🇷
-
-[**English 🇬🇧**](#flossland-slides) | [Français 🇫🇷](#francais)
+## Français
 
 ---
 # Flossland : Créez votre propre plateforme avec les meilleures webapps open source.
