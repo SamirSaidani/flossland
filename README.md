@@ -1,6 +1,6 @@
 # Flossland : Build your own platform with the best open-source webapps.
 
-[Français 🇫🇷](#francais) | **English 🇬🇧**
+[Français 🇫🇷](#french) | **English 🇬🇧**
 
 ---
 
@@ -43,7 +43,7 @@ Authored by **Samir Saidani**
 
 ---
 
-#Français
+#French
 
 ---
 # Flossland : Créez votre propre plateforme avec les meilleures webapps open source.
