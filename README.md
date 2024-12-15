@@ -29,8 +29,7 @@ The slides are organized into the following sections:
 1. Visit the [flossland website](samirsaidani.github.io/flossland/)
 
 ### Edit the Slides
-The slides are written in Markdown and can be customized using any text editor. After making changes, render them using tools like [reveal.js](https://revealjs.com/) or [pandoc](https://pandoc.org/).
-
+The slides are written in Markdown and can be customized using any text editor. After making changes, render them using [mkslides](https://github.com/MartenBE/mkslides).
 ## 🧑‍💻 Contribute
 Contributions are welcome! Feel free to:
 - Report issues.
@@ -76,7 +75,7 @@ Les diapositives sont organisées en sections suivantes :
 Visitez le [site flossland](samirsaidani.github.io/flossland/)
 
 ### Modifier les diapositives
-Les diapositives sont écrites en Markdown et peuvent être modifiées avec n'importe quel éditeur de texte. Après modification, utilisez des outils comme [reveal.js](https://revealjs.com/) ou [pandoc](https://pandoc.org/) pour les rendre.
+Les diapositives sont écrites en Markdown et peuvent être modifiées avec n'importe quel éditeur de texte. Après modification, utilisez [mkslides](https://github.com/MartenBE/mkslides).
 
 ## 🧑‍💻 Contribuer
 Les contributions sont les bienvenues ! N'hésitez pas à :
